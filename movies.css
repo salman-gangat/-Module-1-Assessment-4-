@@ -1,0 +1,21 @@
+﻿h1{
+	background-color:blue;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+}
+
+h1:hover{
+	color:black;
+}
+
+p{
+	background-color:olive;
+	color:white;
+	font-family:"Courier New", Courier, monospace;
+	font-style:italic;
+}
+
+p:hover{
+	color:gray;
+}
